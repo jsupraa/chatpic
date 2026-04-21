@@ -1,16 +1,9 @@
 # ChatPic – Private Photo Sharing & Talk
 
-<div align="center">
-
-# 📸 ChatPic
-
-### Fast & Secure Image Sharing Tool
-
-[🚀 Try Live Demo](https://basheera.netlify.app/)
-
-</div>
+[My Image](https://chat-pic.org/wp-content/uploads/2026/01/chatpic-img-sharing-683x1024.webp?raw=true)
 
 Visit: [Chatpic Official](https://chat-pic.org/)
+
 In today’s digital world, sharing images has become part of our daily routine whether it’s sending a photo to a friend or sharing visuals with a client. But surprisingly, most platforms make this simple task more complicated than it needs to be.
 
 Messaging apps often compress images, reducing their quality, while cloud storage services require account creation, logins, and multiple steps just to share a single picture. This can quickly turn into a frustrating experience when all you want is a quick and easy way to send an image.
